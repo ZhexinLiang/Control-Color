@@ -1,6 +1,6 @@
 # Color-Anything
 You can visit https://zhexinliang.github.io/Color_Anything/ for more details.
 
-We will release our demo on hugging face later.
+Our demo will be available on hugging face.
 
 We will release our code and model weights later.
