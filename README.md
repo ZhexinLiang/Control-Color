@@ -34,7 +34,7 @@
         <img src="https://img.shields.io/badge/arXiv-2312.06640-b31b1b.svg">
         </a> -->
         <a href="https://youtu.be/tSCwA-srl8Q" target='_blank'>
-        <img src="https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?logo=YouTube&logoColor=white">
+        <img src="https://img.shields.io/badge/Demo%20Video-%23D11507.svg?logo=YouTube&logoColor=white">
         </a>
         <img src="https://api.infinitescript.com/badgen/count?name=sczhou/Control_Color&ltext=Visitors&color=3977dd">
     </h4>
