@@ -16,35 +16,33 @@
 <!-- <div>
     :star: <strong>Accepted to ICCV 2023, Oral</strong>
 </div> -->
-<div>
+<!-- <div>
     <h4 align="center">
         <a href="https://zhexinliang.github.io/Control_Color/" target='_blank'>[Project Page]</a> •
-<!--         <a href="https://arxiv.org/abs/2303.17569" target='_blank'>[arXiv]</a> • -->
+        <a href="https://arxiv.org/abs/2303.17569" target='_blank'>[arXiv]</a> •
         <a href="https://youtu.be/tSCwA-srl8Q" target='_blank'>[Demo Video]</a>
+        <img src="https://api.infinitescript.com/badgen/count?name=sczhou/Control_Color&ltext=Visitors&color=3977dd">
+    </h4>
+</div> -->
+
+<div>
+    <h4 align="center">
+        <a href="https://zhexinliang.github.io/Control_Color/" target='_blank'>
+        <img src="https://img.shields.io/badge/🐳-Project%20Page-blue">
+        </a>
+<!--         <a href="" target='_blank'>
+        <img src="https://img.shields.io/badge/arXiv-2312.06640-b31b1b.svg">
+        </a> -->
+        <a href="https://youtu.be/tSCwA-srl8Q" target='_blank'>
+        <img src="https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?logo=YouTube&logoColor=white">
+        </a>
+        <img src="https://api.infinitescript.com/badgen/count?name=sczhou/Control_Color&ltext=Visitors&color=3977dd">
     </h4>
 </div>
 
 
 <strong>Control Color (CtrlColor) achieves highly controllable multimodal image colorization based on stable diffusion model.</strong>
-<!-- 
-<table>
-<tr>
-    <td><img src="assets/0032_rgb.gif" width="100%"/></td>
-    <td><img src="assets/0032_geo.gif" width="100%"/></td>
-    <td><img src="assets/0067_rgb.gif" width="100%"/></td>
-    <td><img src="assets/0067_geo.gif" width="100%"/></td>
-    <td><img src="assets/0021_rgb_dancing.gif" width="98%"/></td>
-    <td><img src="assets/0001_rgb_interpolation.gif" width="88%"/></td>
-</tr>
-<tr>
-    <td align='center' width='14%'>Sample 1 RGB</td>
-    <td align='center' width='14%'>Sample 1 Geo</td>
-    <td align='center' width='14%'>Sample 2 RGB</td>
-    <td align='center' width='14%'>Sample 2 Geo</td>
-    <td align='center' width='19%'>Novel Pose Generation</td>
-    <td align='center' width='19%'>Latent Space Interpolation</td>
-</tr>
-</table> -->
+
 
 :open_book: For more visual results and applications of CtrlColor, go checkout our <a href="https://zhexinliang.github.io/Control_Color/" target="_blank">project page</a>.
 
