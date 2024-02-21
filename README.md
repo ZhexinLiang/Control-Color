@@ -40,16 +40,52 @@
     </h4>
 </div>
 
+<img src="assets/teaser_aligned.png" width="100%"/>
 
 <strong>Control Color (CtrlColor) achieves highly controllable multimodal image colorization based on stable diffusion model.</strong>
 
+</div>
+
+<table>
+<tr>
+    <td><img src="assets/region.gif" width="100%"/></td>
+    <td><img src="assets/iterative.gif" width="90%"/></td>
+</tr>
+<tr>
+    <td align='center' width='50%'>Region colorization</td>
+    <td align='center' width='50%'>Iterative editing</td>
+    <!-- <td align='center' width='33%'></td> -->
+<tr>
+</table>
 
 :open_book: For more visual results and applications of CtrlColor, go checkout our <a href="https://zhexinliang.github.io/Control_Color/" target="_blank">project page</a>.
 
 ---
 
 
-</div>
+<!-- <table>
+<tr>
+    <td><img src="assets/region.gif" width="100%"/></td>
+    <td><img src="assets/iterative.gif" width="90%"/></td>
+</tr>
+<tr>
+    <td align='center' width='50%'>Stroke-based Colorization</td>
+    <td align='center' width='50%'>Iterative Editing based on same seed</td>
+<tr>
+</table> -->
+
+<!-- <table>
+<tr>
+    <td><img src="assets/region.gif" width="100%"/></td>
+    <td><img src="assets/region_cond.gif" width="100%"/></td>
+</tr>
+<tr>
+    <td align='center' width='50%'>Text-based Colorization</td>
+    <td align='center' width='50%'>Exemplar-based Colorization</td>
+<tr>
+</table> -->
+
+
 
 ## :mega: About code publication
 We will release the code in 2024.
