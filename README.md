@@ -49,11 +49,11 @@
 <table>
 <tr>
     <td><img src="assets/region.gif" width="100%"/></td>
-    <td><img src="assets/iterative.gif" width="90%"/></td>
+    <td><img src="assets/iterative.gif" width="100%"/></td>
 </tr>
 <tr>
-    <td align='center' width='50%'>Region colorization</td>
-    <td align='center' width='50%'>Iterative editing</td>
+    <td align='center' width='46%'>Region colorization</td>
+    <td align='center' width='54%'>Iterative editing</td>
     <!-- <td align='center' width='33%'></td> -->
 <tr>
 </table>
