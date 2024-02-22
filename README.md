@@ -88,7 +88,7 @@
 
 
 ## :mega: About code publication
-We will release the code in 2024.
+We will release the code once this paper is accepted. Please stay tuned! :)
 
 <!--
 ## :love_you_gesture: Citation
