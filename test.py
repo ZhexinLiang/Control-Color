@@ -382,7 +382,9 @@ def process(using_deformable_vae,change_according_to_strokes,iterative_editing,i
         if iterative_editing:
             mask=255-mask
             if change_according_to_strokes:
-                hint_image=mask/255.*hint_image+(1-mask/255.)*input_image_ori
+                kernel = np.ones((15, 15), np.uint8)
+                mask = cv2.morphologyEx(mask, cv2.MORPH_GRADIENT, kernel)
+                hint_image=mask/255.*hint_image+(1-mask/255.)*hint_image
             else:
                 hint_image=mask/255.*input_image+(1-mask/255.)*input_image_ori
         else:
